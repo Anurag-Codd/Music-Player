@@ -16,6 +16,7 @@ const Player = ({ currentTrack }) => {
   const [currentTime, setCurrentTime] = useState(0);
   const [showFullPlayer, setShowFullPlayer] = useState(false);
   const intervalRef = useRef(null);
+  console.log(intervalRef)
 
   const convertDuration = (str) => {
     if (!str) return 0;

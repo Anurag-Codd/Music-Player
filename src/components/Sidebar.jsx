@@ -16,6 +16,7 @@ import { IoSearch } from "react-icons/io5";
 import { HiSwatch } from "react-icons/hi2";
 
 const Sidebar = ({ setCurrentTrack, tracks, updateRecentlyPlayed }) => {
+  const [searchTerm, setSearchTerm] = useState("");
   const [selectedCategory, setSelectedCategory] = useState("For You");
   const [activeTrackId, setActiveTrackId] = useState(null);
   const [showSidebar, setShowSidebar] = useState(false);
@@ -31,6 +32,17 @@ const Sidebar = ({ setCurrentTrack, tracks, updateRecentlyPlayed }) => {
       setFilteredTracks(tracks);
     }
   }, [selectedCategory, tracks]);
+
+  useEffect(() => {
+    const delayDebounce = setTimeout(() => {
+      const filtered = tracks.filter((track) =>
+        track.title.toLowerCase().includes(searchTerm.toLowerCase())
+      );
+      setFilteredTracks(filtered);
+    }, 300); // 300ms debounce
+  
+    return () => clearTimeout(delayDebounce);
+  }, [searchTerm, tracks]);
 
   return (
     <Container fluid>
@@ -76,6 +88,7 @@ const Sidebar = ({ setCurrentTrack, tracks, updateRecentlyPlayed }) => {
             <Form.Control
               placeholder="Search Song"
               style={{ boxShadow: "none", outline: "none" }}
+              onChange={(e) => setSearchTerm(e.target.value)}
             />
             <InputGroup.Text>
               <IoSearch />
