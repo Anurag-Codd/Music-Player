@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Starboy",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758033/extractimages_442025_15327_d9hfhk.jpg",
+    "musicUrl": "",
+    "duration": "3:50",
+    "artistName": "The Weeknd"
+  },
+  {
+    "id": 2,
+    "title": "Demons",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758285/extractimages_442025_24714_coez5l.jpg",
+    "musicUrl": "",
+    "duration": "2:57",
+    "artistName": "Imagine Dragons"
+  },
+  {
+    "id": 3,
+    "title": "Mouth of the river",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758539/extractimages_442025_25203_gftiuj.jpg",
+    "musicUrl": "",
+    "duration": "3:41",
+    "artistName": "Imagine Dragons"
+  },
+  {
+    "id": 4,
+    "title": "A Sky Full of Stars",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758662/extractimages_442025_25408_zwhijb.jpg",
+    "musicUrl": "",
+    "duration": "4:27",
+    "artistName": "Coldplay"
+  },
+  {
+    "id": 5,
+    "title": "Sparks",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758712/extractimages_442025_25459_pu8rfh.jpg",
+    "musicUrl": "",
+    "duration": "3:47",
+    "artistName": "Coldplay"
+  },
+  {
+    "id": 6,
+    "title": "Viva la Vida",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758753/extractimages_442025_25541_ydwtsq.jpg",
+    "musicUrl": "",
+    "duration": "4:02",
+    "artistName": " Coldplay"
+  },
+  {
+    "id": 7,
+    "title": "Hymn for the Weekend",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758318/extractimages_442025_24655_wigwzr.jpg",
+    "musicUrl": "",
+    "duration": "4:18",
+    "artistName": "Coldplay"
+  },
+  {
+    "id": 8,
+    "title": "Hey, Soul Sister",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758829/extractimages_442025_25656_x9an34.jpg",
+    "musicUrl": "",
+    "duration": "3:36",
+    "artistName": "Train"
+  },
+  {
+    "id": 9,
+    "title": "Shut Up and Dance",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743758923/extractimages_442025_25828_rvjtci.jpg",
+    "musicUrl": "",
+    "duration": "3:19",
+    "artistName": "Walk the Moon"
+  },
+  {
+    "id": 10,
+    "title": "Die With a Smile",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759097/extractimages_442025_30114_rra2f8.jpg",
+    "musicUrl": "",
+    "duration": "4:11",
+    "artistName": "Bruno Mars"
+  },
+  {
+    "id": 11,
+    "title": "That's So True",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759217/extractimages_442025_30301_ox78wr.jpg",
+    "musicUrl": "",
+    "duration": "2:46",
+    "artistName": "Gracie Abrams"
+  },
+  {
+    "id": 12,
+    "title": "APT",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759292/extractimages_442025_30437_akcig3.jpg",
+    "musicUrl": "",
+    "duration": "2:49",
+    "artistName": "Rose"
+  },
+  {
+    "id": 13,
+    "title": "Wildflower",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759350/extractimages_442025_30521_h3mge8.jpg",
+    "musicUrl": "",
+    "duration": "4:21",
+    "artistName": "Billie Eilish"
+  },
+  {
+    "id": 14,
+    "title": "Anxiety",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759561/extractimages_442025_30909_lcngqs.jpg",
+    "musicUrl": "",
+    "duration": "4:09",
+    "artistName": "Doechii"
+  },
+  {
+    "id": 15,
+    "title": "Espresso",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759677/extractimages_442025_31050_xovvrb.jpg",
+    "musicUrl": "",
+    "duration": "2:55",
+    "artistName": "Sabrina Carpenter"
+  },
+  {
+    "id": 16,
+    "title": "Birds of Feather",
+    "thumbnail": "https://res.cloudinary.com/ds8nimjln/image/upload/v1743759350/extractimages_442025_30521_h3mge8.jpg",
+    "musicUrl": "",
+    "duration": "3:30",
+    "artistName": "Billie Eilish"
+  }
+]
